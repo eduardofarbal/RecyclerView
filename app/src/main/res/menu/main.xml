@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_agregar"
+        android:title="agrega"
+        android:icon="@drawable/ic_dd"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/menu_borrar"
+        android:icon="@drawable/ic_delete"
+        app:showAsAction="always"
+        android:title="borrar" />
+
+
+
+
+
+</menu>
