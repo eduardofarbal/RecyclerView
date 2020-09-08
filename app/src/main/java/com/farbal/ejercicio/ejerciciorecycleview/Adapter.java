@@ -25,7 +25,7 @@ public class Adapter  extends RecyclerView.Adapter<Adapter.ViewHolder> {
         this.modeloImagenes = modeloImagenes;
         this.layout = layout;
         this.onItemClickListener = onItemClickListener;
-        int o=0;
+        
     }
 
     @NonNull
