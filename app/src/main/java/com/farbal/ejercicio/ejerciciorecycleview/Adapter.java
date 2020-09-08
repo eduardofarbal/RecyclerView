@@ -75,6 +75,6 @@ public class Adapter  extends RecyclerView.Adapter<Adapter.ViewHolder> {
     }
     interface  onItemClickListener{
         void onClick(int position);
-        //koklklm
+
     }
 }
